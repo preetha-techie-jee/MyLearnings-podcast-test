@@ -32,7 +32,7 @@ We dive into topics such as:
 ---
 
 ## 🙌 About the Host
-Hi, I’m **Preetha**, a developer working in NDC at British Airways.  
+Hi, I’m **Preetha**, a developer.  
 Through this podcast, I share my learning journey and invite industry experts to discuss technology, innovation, and careers.  
 
 ---
