@@ -1,6 +1,6 @@
 # 🎙️ The MyLearnings Podcast
 
-<img src="images/artwork.jpg" width="250">
+<img src="images/podcast.jpg" width="250">
 
 The **MyLearnings Podcast** is a weekly series powered by GitHub & LinkedIn Learning.  
 The goal of this series is to spark conversations, share insights, and provide practical tips to help developers work, learn, and tackle challenges in the tech industry.  
